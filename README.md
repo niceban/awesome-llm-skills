@@ -27,6 +27,7 @@
 
 
 ## Contents
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
 - [What Are LLM Skills?](#what-are-llm-skills)
 - [Quick Start](#quick-start)
