@@ -142,7 +142,10 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [Skill Creator](./skill-creator/) - Provides guidance for creating effective Claude Skills that extend capabilities with specialized knowledge, workflows, and tool integrations.
 - [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Automatically converts any documentation website into a Claude AI skill in minutes. *By [@yusufkaraaslan](https://github.com/yusufkaraaslan)*
 - [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - Use when implementing any feature or bugfix, before writing implementation code.
+- [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/)
+
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json. *By [@claw-army](https://github.com/claw-army)*
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 
 ### Data & Analysis
